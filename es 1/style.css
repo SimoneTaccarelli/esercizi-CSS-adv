@@ -1,0 +1,49 @@
+div h1{
+    color: red;
+}
+
+nav span {
+    color: red;
+}
+
+.jumbotron p:nth-of-type(2) a {
+    color: rgb(130, 137, 238);
+}
+
+.blog-post:first-of-type{
+    border: 1px solid violet;
+}
+
+.blog-post hr:first-of-type{
+    background-color: rgb(219, 20, 20);
+}
+
+nav span:nth-of-type(even){
+    color:violet;
+}
+
+aside div:nth-of-type(2) ol li  {
+    background-color : green ;
+}
+
+.blog-post:nth-of-type(2) p:first-of-type a{
+    color: rgb(172, 15, 172);
+}
+
+.blog-post:nth-of-type(3) ul li:first-of-type{
+    color: violet;
+}
+
+footer + a {
+    color: violet;
+}
+
+.blog-pagination a:last-of-type{
+    color: violet;
+}
+
+footer p a:last-of-type{
+    color: violet;
+}
+
+
